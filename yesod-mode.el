@@ -24,7 +24,7 @@
   :prefix "yesod-"
   :group 'data)
 
-;; From our own Rebecca Skinner's:
+;; From
 ;; https://github.com/rebeccaskinner/persistent-mode-el/blob/master/persistent-mode.el
 (define-generic-mode
     ;; mode name
